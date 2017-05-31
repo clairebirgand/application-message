@@ -1,0 +1,22 @@
+{
+  "name": "appli-messages",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairebirgand/appli-messages.git"
+  },
+  "author": "clairebirgand",
+  "bugs": {
+    "url": "https://github.com/clairebirgand/appli-messages/issues"
+  },
+  "homepage": "https://github.com/clairebirgand/appli-messages#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "fb": "^1.1.1",
+    "nodemailer": "^3.1.7",
+    "slack": "^8.2.2",
+    "twitter": "^1.7.0"
+  }
+}
